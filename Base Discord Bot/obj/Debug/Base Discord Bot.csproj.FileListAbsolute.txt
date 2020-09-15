@@ -1,0 +1,2 @@
+C:\Users\zacha\source\repos\Base Discord Bot\Base Discord Bot\obj\Debug\Base Discord Bot.csprojAssemblyReference.cache
+C:\Users\zacha\source\repos\Base Discord Bot\Base Discord Bot\obj\Debug\Base Discord Bot.csproj.CoreCompileInputs.cache
